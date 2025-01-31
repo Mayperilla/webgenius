@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Index - WebGenius Template</title>
+  <title>WebGenius Template</title>
   <meta name="description"
     content="En WebGenius ofrecemos diseño web profesional, desarrollo de e-commerce y soluciones digitales para empresas. ¡Creamos tu página web a medida con calidad garantizada!">
 
@@ -55,7 +55,7 @@
 
       <nav id="navmenu" class="navmenu">
         <ul>
-          <li><a href="#index" class="active">Inicio</a></li>
+          <li><a href="#inicio" class="active">Inicio</a></li>
           <li><a href="#about">Sobre nosotros</a></li>
           <li><a href="#pricing">Planes Web</a></li>
           <li><a href="#pricingec">Planes tienda web</a></li>
@@ -942,7 +942,7 @@
         <div class="col-lg-2 col-md-3 footer-links">
           <h4>Enlaces rapidos</h4>
           <ul>
-            <li><a href="#index" class="active">Inicio</a></li>
+            <li><a href="#inicio" class="active">Inicio</a></li>
             <li><a href="#about">Sobre nosotros</a></li>
             <li><a href="#pricing">Planes Web</a></li>
             <li><a href="#pricingec">Planes tienda web</a></li>
