@@ -10,7 +10,18 @@
 # Font & Color Variables
 # Help: https://bootstrapmade.com/color-system/
 --------------------------------------------------------------*/
-/*backgroun*/
+/*tootltp*/
+
+.tooltip-inner {
+  background-color: #f97316; /* Color de fondo del tooltip */
+  color: #fff; /* Color del texto */
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.tooltip.bs-tooltip-top .tooltip-arrow::before {
+  border-top-color: #f97316; /* Color de la flecha del tooltip */
+}
 
 /* whatsapp icon */
 .whatsapp-icon {
