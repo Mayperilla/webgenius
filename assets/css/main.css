@@ -10,6 +10,16 @@
 # Font & Color Variables
 # Help: https://bootstrapmade.com/color-system/
 --------------------------------------------------------------*/
+/*price descount*/
+
+.precio-original {
+  font-weight: bold;
+  background-color: #f8f9fa; /* Fondo claro */
+  padding: 8px;
+  border-radius: 5px;
+  color: #ff5733; /* Puedes cambiar este color */
+}
+
 /*tootltp*/
 
 .tooltip-inner {
@@ -1480,14 +1490,14 @@ section,
 
 .pricing h4 {
   color: var(--accent-color);
-  font-size: 48px;
+  font-size: 40px;
   font-weight: 700;
   font-family: var(--heading-font);
   margin-bottom: 0;
 }
 
 .pricing h4 sup {
-  font-size: 28px;
+  font-size: 24px;
 }
 
 .pricing h4 span {
